@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... PYTHON, and Html,CSS, and java script 
 - 📫 How to reach me ... siddiquiausaaf4@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I'm a huge cinephile
 
 <!---
 ausaafffff/ausaafffff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
